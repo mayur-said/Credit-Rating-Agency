@@ -1,8 +1,7 @@
 # Python Developer - Credit Rating Agency - Residential Mortgage Securities (RMBS) Assignment
-## About
 
 ## Prerequisite
-python version: 3.11
+Python version: 3.11
 ## Installation
 1. Obtain the URL to the GitHub repository and clone it
 ```bash
@@ -36,7 +35,7 @@ The code tests for all possible edge cases and invalid inputs that I was able to
 The code largely follows the required solution structure. I have taken the liberty to modify and enhance the output slightly. Instead of just returning a string, the code returns a Python dictionary as follows:
 1. if the input is valid:
    ```json
-   response = {"error": False, "message": {'credit_rating': credit_rating}}
+   response = {"error": False, "message": {'credit_rating': 'AAA'}}
    ```
 2. if the input is invalid or for some unexpected errors:
    ```json
