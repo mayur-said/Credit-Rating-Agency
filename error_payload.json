@@ -1,0 +1,13 @@
+{
+  "mortgages": [
+    {
+      "credit_score": 1000,
+      "loan_amount": 200000,
+      "property_value": 250000,
+      "annual_income": 60000,
+      "debt_amount": 20000,
+      "loan_type": "fix",
+      "property_type": "single"
+    }
+  ]
+}
